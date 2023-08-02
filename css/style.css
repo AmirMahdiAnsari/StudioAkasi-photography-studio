@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'Shabnam';
-    src: url('../fonts/Shabnam.eot') format('eot');
-    src: url('../fonts/shabnam.ttf') format('truetype'),
-        url('../fonts/shabnam.woff') format('woff');
+    src: url('fonts/Shabnam.eot') format('eot');
+    src: url('fonts/Shabnam.ttf') format('truetype'),
+        url('fonts/Shabnam.woff') format('woff');
 }
 @font-face {
     font-family: 'Yekan';
-    src: url('../fonts/Yekan.eot') format('eot');
-    src: url('../fonts/Yekan.ttf') format('truetype'),
-        url('../fonts/Yekan.woff') format('woff');
+    src: url('fonts/Yekan.eot') format('eot');
+    src: url('fonts/Yekan.ttf') format('truetype'),
+        url('fonts/Yekan.woff') format('woff');
 }
 
 * {
